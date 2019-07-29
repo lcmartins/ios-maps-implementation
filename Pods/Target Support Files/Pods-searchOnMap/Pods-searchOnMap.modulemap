@@ -1,0 +1,6 @@
+framework module Pods_searchOnMap {
+  umbrella header "Pods-searchOnMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
